@@ -1,0 +1,26 @@
+[
+     {
+    "question": "What is AI?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence processes by machines."
+  },
+   {
+    "question": "hi?",
+    "answer": "hi, i am a FAQ_CHATBOT! Ask your questions?."
+  },
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence processes by machines."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a subset of AI that allows systems to learn from data and improve over time."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "NLP stands for Natural Language Processing, a branch of AI that deals with the interaction between computers and humans using natural language."
+  }
+]
